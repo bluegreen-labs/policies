@@ -1,3 +1,5 @@
+# Consultancy policy
+
 Our time is limited and requests for help using or reproducing our projects are frequent. 
 Where substantial intellectual input is required we ask for credit. 
 Intellectual input can take the form of (but is not limited to) custom code, 
