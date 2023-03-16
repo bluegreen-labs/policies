@@ -1,6 +1,6 @@
 # Why contribute?
 
-Software developed by BlueGreen Labs is mostly done so on free time. Software bugs and mistakes are a reality, and usability can always be improved as it is often a matter of taste and or culture. **We rely on you, the user,** to point out any issues with the software and where (and how) to improve it. Below you will find a description on how to contribute if you feel a change to a package is needed.
+Software developed by BlueGreen Labs is mostly done so on free time. Software bugs and mistakes are a reality, and usability can always be improved as it is often a matter of taste and or culture. **We rely on you, the user,** to point out any issues with the software and where (and how) to improve it. Below you will find a description on how to contribute if you feel a change to a package is needed. Note that at BlueGreen Labs we practice [healthy code review](https://www.mediawiki.org/wiki/Guidelines_for_a_healthy_code_review_culture) and expect the same from others who contribute.
 
 ## Phylosophy
 
